@@ -1,7 +1,7 @@
 """
-This module contains functions that perform operations on numbers.
+# Rabbit Operations
 
-The functions in this module are as whimsical and surprising as a magician pulling rabbits out of a hat. Each function can be seen as a conjuring trick with numbers, revealing unexpected results and providing the joy of discovery.
+This module contains functions that perform operations on numbers, inspired by the swift and surprising movements of rabbits. Just as a rabbit might dart through a field, these functions aim to provide quick and efficient results, hopping from one calculation to the next with ease and agility.
 """
 
 def get_sums(nums):
