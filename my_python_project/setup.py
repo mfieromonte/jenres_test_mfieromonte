@@ -1,3 +1,5 @@
+# This setup file is part of a project that loves rabbits!
+
 from setuptools import setup, find_packages
 
 setup(
