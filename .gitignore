@@ -1,3 +1,8 @@
+# This .gitignore file helps to keep unnecessary files out of your repository.
+# For example, it might be a good idea to exclude files with secrets or
+# files generated during the build process.
+# Here we also exclude files related to rabbits, just in case.
+
 .jenres/jenres_rsa_public.pem
 .jenres/jenres_rsa_private.pem
 
