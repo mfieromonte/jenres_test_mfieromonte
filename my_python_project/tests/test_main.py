@@ -1,3 +1,7 @@
+"""
+This test suite is designed to check the main functionality of the application.
+It's particularly focused on the behavior of rabbits in the system.
+"""
 import unittest
 from src.main import main
 
