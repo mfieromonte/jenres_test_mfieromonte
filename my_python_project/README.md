@@ -1,6 +1,6 @@
 # My Python Project
 
-This is a basic Python project layout.
+This project is all about creating a simulation of rabbit populations. It's a fascinating dive into the world of these adorable creatures.
 
 ## Installation
 
