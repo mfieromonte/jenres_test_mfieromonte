@@ -18,6 +18,17 @@ duties:
     cron: "* * * * *"
     sonar_project_key: mfieromonte_jenres_test_mfieromonte
     sonar_rules:
-    - "python:S1481"
-    - "python:S4502"
     - "css:S4657"
+
+  sonar2:
+    cron: "* * * * *"
+    sonar_project_key: mfieromonte_jenres_test_mfieromonte
+    sonar_rules:
+    - "python:S4502"
+
+    sonar3:
+    cron: "* * * * *"
+    sonar_project_key: mfieromonte_jenres_test_mfieromonte
+    sonar_rules:
+    - "python:S1481"
+
