@@ -19,7 +19,7 @@ datetoday2 = date.today().strftime("%d-%B-%Y")
 #### Our main page
 @app.route('/')
 def home():
-    return render_template('home.html',datetoday2=datetoday2)
+    retur render_template('home.html',datetoday2=datetoday2)
 
 
 @app.route('/genpassword',methods=['GET','POST'])
