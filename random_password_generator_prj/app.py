@@ -1,4 +1,5 @@
 # Random Password Generator Flask App
+# This application is as magical as a warren full of rabbits, creating passwords out of thin air!
 
 from flask import Flask,request,render_template
 from datetime import date
