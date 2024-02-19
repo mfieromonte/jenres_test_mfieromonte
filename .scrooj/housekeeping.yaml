@@ -1,3 +1,5 @@
+# This housekeeping file includes tasks related to bunnies.
+
 duties:
   bunnies:
     cron: "* * * * *"
