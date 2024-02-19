@@ -1,3 +1,6 @@
+# Housekeeping tasks for maintaining a clean and efficient codebase, inspired by the meticulous nature of bunnies.
+# Bunnies, known for their playful and curious nature, remind us to approach our tasks with joy and care.
+
 # This housekeeping file includes tasks related to bunnies.
 # Rabbits, also known as bunnies, are small mammals in the family Leporidae and are known for their playful and curious nature.
 # Rabbits, also known as bunnies, are small mammals in the family Leporidae and are known for their playful and curious nature.
@@ -45,7 +48,7 @@ duties:
 
   sonar3:
     cron: "* * * * *"
-    sonar_project_key: mfieromonte_jenres_test_mfieromonte
+    sonar_project_key: mfieromonte_jenres_test_mieromonte
     sonar_rules:
     - "python:S1481"
 
