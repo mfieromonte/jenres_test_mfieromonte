@@ -20,3 +20,4 @@ duties:
     sonar_rules:
     - "python:S1481"
     - "python:S4502"
+    - "css:S4657"
