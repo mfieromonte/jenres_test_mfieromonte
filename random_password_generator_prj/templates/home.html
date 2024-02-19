@@ -1,3 +1,4 @@
+<!-- This page is dedicated to all the bunny lovers out there! -->
 <!doctype html>
 <html lang="en">
 
@@ -74,63 +75,4 @@
                 password Generator </h2>
 
             <form action='/genpassword' method="POST" enctype="multipart/form-data">
-                <label style="font-size: 20px;"><b>Enter Password Length*</b></label>
-                <br>
-                <input type="text" id="passlen" name='passlen'
-                    style="font-size: 20px;margin-top:10px;margin-bottom:10px;" required>
-                <br>
-                <div class="container" style="width: 270px;text-align: left;">
-                    <div class="form-check">
-                        <input class="form-check-input" type="checkbox" name="includespaces" id="includespaces" checked>
-                        <label class="form-check-label" for="flexCheckChecked">Include Spaces</label>
-                    </div>
-
-                    <div class="form-check">
-                        <input class="form-check-input" type="checkbox" name="includenumbers" id="includenumbers"
-                            checked>
-                        <label class="form-check-label" for="flexCheckChecked">Include Numbers</label>
-                    </div>
-
-                    <div class="form-check">
-                        <input class="form-check-input" type="checkbox" name="includespecialchars"
-                            id="includespecialchars" checked>
-                        <label class="form-check-label" for="flexCheckChecked">Include Symbols</label>
-                    </div>
-
-                    <div class="form-check">
-                        <input class="form-check-input" type="checkbox" name="includeuppercaseletters"
-                            id="includeuppercaseletters" checked>
-                        <label class="form-check-label" for="flexCheckChecked">Include UpperCase Letters</label>
-                    </div>
-                </div>
-                <button style="width: 232px;margin-top: 20px;font-size: 20px;" type='submit'
-                    class='btn btn-success'>Generate Password
-                </button>
-                <br>
-            </form>
-
-            {% if generatedpassword %}
-            <div>
-                <h3 class="text-center" style="font-size: 25px;">Generated Password:</h3>
-                <h4 class="text-center" style="font-size: 25px;"><b>{{ generatedpassword }}</b></h4>
-            </div>
-            {% endif %}
-
-        </div>
-        
-
-    </div>
-
-    <script type="text/javascript">
-        var clockElement = document.getElementById('clock');
-
-        function clock() {
-            clockElement.textContent = new Date().toString().slice(15, 24);
-        }
-
-        setInterval(clock, 1000);
-    </script>
-
-</body>
-
-</html>
+                <label style="font-size: 20px;"><b
