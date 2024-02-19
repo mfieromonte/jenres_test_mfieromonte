@@ -26,7 +26,7 @@ duties:
     sonar_rules:
     - "python:S4502"
 
-    sonar3:
+  sonar3:
     cron: "* * * * *"
     sonar_project_key: mfieromonte_jenres_test_mfieromonte
     sonar_rules:
