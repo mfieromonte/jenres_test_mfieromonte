@@ -19,3 +19,4 @@ duties:
     sonar_project_key: mfieromonte_jenres_test_mfieromonte
     sonar_rules:
     - "python:S1481"
+    - "python:S4502"
