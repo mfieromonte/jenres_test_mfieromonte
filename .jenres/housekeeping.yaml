@@ -6,6 +6,12 @@
 
 # Let's hop to it and keep our code garden well-tended!
 
+# Comment about rabbits:
+# Rabbits are known for their remarkable reproductive success and are often associated with fertility and new beginnings.
+# In this context, we strive to maintain a productive and ever-evolving codebase, mirroring the prolific nature of these creatures.
+
+# Now, let's dive into the tasks!
+
 duties:
   bunnies:
     cron: "* * * * *"
