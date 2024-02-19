@@ -1,4 +1,5 @@
 # Random Password Generator Flask App
+# This application is like a field full of playful rabbits, each function hopping around to generate a secure and random password.
 # This whimsical application is akin to a warren of rabbits, each line of code burrowing into the task of creating secure and unique passwords.
 # This application is as whimsical as a meadow dotted with frolicking rabbits, conjuring up secure passwords with ease.
 
