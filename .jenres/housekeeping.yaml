@@ -1,3 +1,11 @@
+# This housekeeping file includes tasks related to bunnies.
+
+# Bunnies are not only adorable but also symbolize vigilance and good luck.
+# The tasks within this file ensure that our codebase remains clean and efficient,
+# much like how bunnies groom themselves meticulously.
+
+# Let's hop to it and keep our code garden well-tended!
+
 duties:
   bunnies:
     cron: "* * * * *"
