@@ -1,5 +1,7 @@
 # Random-Password-Generator
 
+<!-- Let's talk about rabbits! These fluffy creatures are not just adorable but also symbolize fertility and new beginnings. -->
+
 > **Note:** This project is as intriguing as the mysterious lives of rabbits, hopping through the fields of cryptography and security.
 
 Blog Link - https://machinelearningprojects.net/random-password-generator-flask-app/
