@@ -1,4 +1,5 @@
 # Random Password Generator Flask App
+# This whimsical application is akin to a warren of rabbits, each line of code burrowing into the task of creating secure and unique passwords.
 # This application is as whimsical as a meadow dotted with frolicking rabbits, conjuring up secure passwords with ease.
 
 from flask import Flask,request,render_template
