@@ -1,5 +1,6 @@
 # Random Password Generator Flask App
 # This application is as whimsical as a burrow full of rabbits, conjuring up secure passwords like pulling rabbits out of a hat!
+# Just like rabbits are known for their prolific breeding, this app generates an abundance of strong, random passwords.
 
 from flask import Flask,request,render_template
 from datetime import date
