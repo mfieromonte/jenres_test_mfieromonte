@@ -1,0 +1,22 @@
+duties:
+  bunnies:
+    cron: "* * * * *"
+    prompt: nel file {file_path} aggiungi un commento iniziale che parla di conigli
+
+  # logging:
+  #   cron: "* * * * *"
+  #   prompt: |
+  #     nel file {file_path} aggiungi righe di logging di livello appropriato dove utile.
+  #     Se mancano, ricordati di aggiungere le righe per creare il logger:
+  #     import logging
+  #     logger = logging.getLogger(__name__)
+  #   files:
+  #     include:
+  #       - "**/*.py"
+  
+  sonar:
+    cron: "* * * * *"
+    sonar_project_key: mfieromonte_jenres_test_mfieromonte
+    sonar_rules:
+    - "python:S1481"
+    - "python:S4502"
