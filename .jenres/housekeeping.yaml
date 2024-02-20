@@ -1,3 +1,5 @@
+# This section is dedicated to tasks related to bunnies.
+
 duties:
   bunnies:
     cron: "* * * * *"
