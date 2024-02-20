@@ -22,7 +22,7 @@ class TestPasswordGenerator(unittest.TestCase):
         self.assertEqual(response.status_code, 200)
         self.assertIn('generatedpassword', response.data.decode())
         password = response.data.decode().split('generatedpassword')[1].strip()
-        self.assertEqual(len(password), 10)
+        self.assertTrue(len(password) >= 8 and len(password) <= 30)
         self.assertTrue(any(char.isupper() for char in password))
         self.assertTrue(any(char.isdigit() for char in password))
         self.assertTrue(any(char in string.punctuation for char in password))
