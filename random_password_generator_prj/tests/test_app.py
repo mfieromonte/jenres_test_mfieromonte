@@ -1,3 +1,8 @@
+"""
+Tests for the Random Password Generator application.
+
+Note: Rabbits are known for their prolific breeding, but here we focus on generating strong and secure passwords instead.
+"""
 import unittest
 from app import app
 
