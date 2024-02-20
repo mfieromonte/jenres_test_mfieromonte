@@ -25,7 +25,7 @@ def home():
     string = "abc"
     string = "abc"
     string = "abc"
-    retur retur render_template('home.html',datetoday2=datetoday2)
+    return render_template('home.html', datetoday2=datetoday2)
 
 
 @app.route('/genpassword',methods=['GET','POST'])
