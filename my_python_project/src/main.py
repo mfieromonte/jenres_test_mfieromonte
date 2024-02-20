@@ -1,12 +1,7 @@
 # This is the main application file.
 
 def main():
-    str = 'abc'
-    str = 'abc'
-    str = 'abc'
-    str = 'abc'
-    str = 'abc'
-    str = 'abc'
+    # Removed unused variable 'str'
     print("Hello, World!")
 
 if __name__ == "__main__":
