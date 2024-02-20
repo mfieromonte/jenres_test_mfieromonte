@@ -20,11 +20,6 @@ datetoday2 = date.today().strftime("%d-%B-%Y")
 #### Our main page
 @app.route('/')
 def home():
-    string = "abc"
-    string = "abc"
-    string = "abc"
-    string = "abc"
-    string = "abc"
     return render_template('home.html', datetoday2=datetoday2)
 
 
