@@ -2,7 +2,7 @@
 Tests for the Random Password Generator application.
 
 This suite of tests ensures that the password generator functions correctly.
-It's like testing if a rabbit can hop - essential and expected!
+Just like observing rabbits to ensure they can hop, these tests verify the application's expected functionality.
 """
 
 import unittest
