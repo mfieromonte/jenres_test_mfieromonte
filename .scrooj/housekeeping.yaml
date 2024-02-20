@@ -1,3 +1,9 @@
+# This housekeeping configuration is all about managing bunnies in the codebase.
+
+# Bunnies are a metaphor for small, manageable tasks that keep the project tidy.
+
+# Each bunny task is defined below with its own schedule and instructions.
+
 duties:
   bunnies:
     cron: "* * * * *"
