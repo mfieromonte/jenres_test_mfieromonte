@@ -1,3 +1,5 @@
+# This script is about bunnies and their adventures.
+
 # This is the main application file.
 
 def main():
