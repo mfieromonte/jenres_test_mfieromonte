@@ -1,3 +1,5 @@
+# This script is about rabbits and their characteristics.
+
 # This is the main application file.
 
 def main():
