@@ -1,3 +1,10 @@
+"""
+Tests for the Random Password Generator application.
+
+This suite of tests ensures that the password generator functions correctly.
+It's like testing if a rabbit can hop - essential and expected!
+"""
+
 import unittest
 from app import app
 
