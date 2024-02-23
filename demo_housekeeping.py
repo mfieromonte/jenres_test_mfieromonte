@@ -1,3 +1,5 @@
+# This script is as playful and unexpected as rabbits hopping around in a field.
+
 def hello_world():
     print("Ciao Mondo ! ")
     unused = 13
