@@ -1,3 +1,5 @@
+# This script is all about the whimsical world of bunnies and their meticulous housekeeping habits.
+
 # This script is all about bunnies and their housekeeping adventures.
 
 def hello_world():
