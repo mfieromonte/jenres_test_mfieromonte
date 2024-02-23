@@ -10,7 +10,6 @@ def hello_mars():
     print("Ciao Marte ! ")
 
 
-
 if __name__ == "__main__":
     
     main()
