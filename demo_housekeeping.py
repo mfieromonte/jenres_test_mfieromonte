@@ -1,3 +1,5 @@
+# This script is all about bunnies and their housekeeping adventures.
+
 def hello_world():
     print("Ciao Mondo ! ")
     unused = 13
