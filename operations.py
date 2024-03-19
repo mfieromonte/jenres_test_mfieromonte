@@ -4,4 +4,10 @@ def get_sums(nums):
 
 def get_nums(nums):
   sums = 1+2+3
+  sums = 1+2+3 
+  sums = 1+2+3 
+  sums = 1+2+3 
+  sums = 1+2+3 
+  sums = 1+2+3 
+  sums = 1+2+3
   return sums 
