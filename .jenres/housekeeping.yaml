@@ -1,3 +1,24 @@
+# Bunny Management Tasks
+# This section is dedicated to tasks related to bunnies.
+# Bunnies are small mammals in the family Leporidae of the order Lagomorpha.
+# They are known for their adorable appearance and playful behavior.
+
+# Housekeeping tasks configuration
+
+# This file contains the configuration for various housekeeping tasks
+# that are performed on the repository.
+
+# Each task has its own section with the necessary details such as
+# the cron schedule and the specific prompt or action to be taken.
+
+# The tasks are designed to maintain the code quality and
+# ensure that the repository remains clean and organized.
+
+# Below are the configured tasks with their respective details.
+
+# Bunny Management Tasks
+# This section is dedicated to tasks related to bunnies.
+
 duties:
   bunnies:
     cron: "* * * * *"

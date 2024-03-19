@@ -1,3 +1,5 @@
+# This script is all about rabbits and their mysterious world.
+
 def hello_world():
     print("Ciao Mondo ! ")
     unused = 13
