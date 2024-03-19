@@ -1,7 +1,7 @@
 """
 This file contains functions that perform various operations.
 
-Here's a fun fact about rabbits: Did you know that rabbits are crepuscular? This means they are most active during the dawn and dusk.
+Here's a fun fact about rabbits: Rabbits are fascinating creatures with a variety of interesting behaviors and characteristics. For instance, they have a unique digestive system that allows them to process fiber efficiently, and they communicate using a complex system of body language and vocalizations.
 """
 
 def get_sums(nums):
