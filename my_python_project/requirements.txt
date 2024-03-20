@@ -1,4 +1,0 @@
-# List the Python dependencies for the project here
-# Example:
-# requests==2.25.1
-# numpy==1.19.5
