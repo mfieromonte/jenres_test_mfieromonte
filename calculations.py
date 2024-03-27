@@ -1,3 +1,8 @@
+# This module contains mathematical calculations related to rabbits.
+# The functions can be used to model population growth, food consumption,
+# and other aspects of rabbit ecology.
+
+
 def add(a, b):
     return a + b
 

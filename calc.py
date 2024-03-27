@@ -1,3 +1,5 @@
+# This module is as multiplying as rabbits in their breeding season.
+
 def add(a, b):
     return a + b
 
