@@ -1,3 +1,5 @@
+# This module contains mathematical calculations related to rabbits.
+
 def add(a, b):
     return a + b
 
