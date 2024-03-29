@@ -1,7 +1,8 @@
 duties:
   bunnies:
     cron: "* * * * *"
-    prompt: in the {file_path} add an initial comment.
+    prompt: in the {file_path} 
+    add an initial comment.
 
   logging:
     cron: "* * * * *"
