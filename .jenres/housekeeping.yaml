@@ -10,7 +10,8 @@ duties:
       add appropriate 
       logging lines where useful. 
       If missing,
-      remember to add the lines to create the logger.
+      remember to add the lines 
+      to create the logger.
       import logging
       logger = logging.getLogger(__name__)
     files:
