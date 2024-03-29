@@ -6,8 +6,10 @@ duties:
   logging:
     cron: "* * * * *"
     prompt: |
-      in the {file_path}, add appropriate 
-      logging lines where useful. If missing,
+      in the {file_path}, 
+      add appropriate 
+      logging lines where useful. 
+      If missing,
       remember to add the lines to create the logger.
       import logging
       logger = logging.getLogger(__name__)
