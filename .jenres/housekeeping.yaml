@@ -16,6 +16,6 @@ duties:
   
   sonar:
     cron: "* * * * *"
-    sonar_project_key: project_key
+    sonar_project_key:  mfieromonte_jenres_test_mfieromonte
     sonar_rules:
     - "python:S1481"
